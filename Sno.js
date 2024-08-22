@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function(){
                     }
                 },
                 "color": {
-                    "value": "#fffff"
+                    "value": "#ffffff"
                 },
                 "opacity": {
                     "value": 0.7,
